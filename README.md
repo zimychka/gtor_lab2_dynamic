@@ -1,0 +1,1 @@
+# gtor_lab2_dynamic
